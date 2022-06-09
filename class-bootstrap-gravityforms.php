@@ -9,7 +9,7 @@ if ( ! class_exists( 'Bootstrap_Gravity_Forms' ) ) {
 	/**
 	 * 'Bootstrap_Gravity_Forms.
 	 */
-	class 'Bootstrap_Gravity_Forms {
+	class 'Bootstrap_Gravity_Forms' {
 
 		/**
 		 * Construct
